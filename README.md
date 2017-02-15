@@ -1,4 +1,5 @@
-Laravel
+Laravel: Week 1
+Ran a migration to create database table for users and created a form that submits new user information to that table.
 
 ## License
 
